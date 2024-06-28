@@ -1,7 +1,7 @@
 h2 {color: orange;}
 
 body { 
-  background-color: #407070;
+  background-color: #263A37;
   color: white;
   font-family: Roboto;
   text-align: center;
@@ -11,6 +11,6 @@ header {border-bottom: 1px solid grey;}
 
 footer {border-top: 1px solid grey;}
 
-#nome-usuário {font-weight: bold;}
+#nome-usuario {font-weight: bold;}
 
-.texto-inglês {font-style: italic;}
+.texto-ingles {font-style: italic;}
